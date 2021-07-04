@@ -1,0 +1,11 @@
+Package: ggtreeEx
+Type: Package
+Title: Draw ggtree based phylogenetic tree using DNA or protein sequences
+Version: 0.0.1
+Author: ZhonghuiGai
+Maintainer: Zhonghui Gai <zhgai@aliyun.com>
+Description: Make a phylogenetic tree using Biostrings, muscle, DECIPHER, seqinr, ape and ggtree packages
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
